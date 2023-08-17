@@ -1,0 +1,92 @@
+[    
+   {
+    "id": 1,
+    "nombre": "buzos-manch",
+    "precio": 100,
+    "img":
+    "https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/img_9070_1689863380.jpg?itok=vM_YvddA",
+    "cantidad":1
+   },
+   {
+    "id":2,
+    "nombre": "pantalones-moon",
+    "precio": 150,
+    "img":
+    "https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/img-20230713-wa0062_1690382691.jpg?itok=pRVvEjpW",
+    "cantidad":1
+   },
+   {
+    "id":3,
+    "nombre": "camperas-termicas",
+    "precio": 250,
+    "img":
+    "https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/whatsapp_image_2023-05-31_at_12.07.29_1_1685549799.jpeg?itok=fpSmPuWu",
+    "cantidad":1
+   },
+   {
+    "id":4,
+    "nombre": "chalecos-creem",
+    "precio": 180,
+    "img":
+    "https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/22ad6f43-1562-4b6b-b58c-1de05596cc9b_1687372601.jpeg?itok=hV_vPTEX",
+    "cantidad":1
+   },
+   { 
+    "id":5,
+    "nombre": "tops-two",
+    "precio": 130,
+    "img":
+   "https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/whatsapp_image_2023-07-07_at_10.24.11_1688744073.jpeg?itok=_TDNW-iY",
+   "cantidad":1
+   } ,
+   { 
+    "id":6,
+    "nombre": "sweaters-lover",
+    "precio": 300,
+    "img":
+    "https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/whatsapp_image_2023-05-10_at_15.08.09_1690812314.jpeg?itok=UijItJhN",
+    "cantidad":1
+   } ,
+   { 
+      "id":7,
+      "nombre": "boodies-black",
+      "precio": 400,
+      "img":"https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/7038_2_1660853784.jpg?itok=Hq6eueTZ",
+      "cantidad":1
+   },
+   { 
+      "id":8,
+      "nombre": "tapado-parka",
+      "precio": 600,
+      "img":"https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/snapseed19_1682094400.jpeg?itok=ZJuhYc5X",
+      "cantidad":1
+   },
+   { 
+      "id":9,
+      "nombre": "vestidos-morelos",
+      "precio": 500,
+      "img":"https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/a55bbceb-00dd-41f0-9215-bee1c62a1f72_1692053917.jpeg?itok=DRkdK8fy",
+      "cantidad":1
+   },
+   { 
+      "id":10,
+      "nombre": "corset-trompson",
+      "precio": 200,
+      "img":"https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/whatsapp_image_2023-07-31_at_13.58.09_1690831386.jpeg?itok=gFr9CHap",
+      "cantidad":1
+   },
+   { 
+      "id":11,
+      "nombre": "short-semil",
+      "precio": 600,
+      "img":"https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/whatsapp_image_2023-08-14_at_15.34.39_1692038317.jpeg?itok=sNIRBpDo",
+      "cantidad":1
+   },
+   { 
+      "id":12,
+      "nombre": "pollera-minicargo",
+      "precio": 700,
+      "img":"https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/img_0903_1_1692273100.jpg?itok=YagF77pE",
+      "cantidad":1
+   }
+]
